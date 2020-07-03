@@ -11,6 +11,7 @@ public class SpringBootKafkaProducerExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("dfdf");
 	}
 
 }
